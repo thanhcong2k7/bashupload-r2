@@ -7,7 +7,7 @@ workers_dev = true
 
 # 绑定域名
 routes = [
-	{ pattern = "bashupload.app", custom_domain = true, zone_name = "bashupload.app" }
+	{ pattern = "temp.thanhcong2k7.workers.dev", custom_domain = true, zone_name = "temp" }
 ]
 
 # R2 存储桶绑定
