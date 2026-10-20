@@ -7,7 +7,7 @@ workers_dev = true
 
 # 绑定域名
 routes = [
-	{ pattern = "temp.thanhcong2k7.workers.dev", custom_domain = true, zone_name = "temp" }
+	{ pattern = "temp.thanhcong2k7.workers.dev", custom_domain = true, zone_name = "auroramusicvietnam.net" }
 ]
 
 # R2 存储桶绑定
